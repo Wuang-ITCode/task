@@ -1,0 +1,16 @@
+body {
+    background: url('../images/chill.jpg');
+    background-size: cover;
+    background-position-y: -35px;
+    text-align: center;
+
+}
+
+li {
+    background: #4a43d2;
+    margin: 5px 0;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
